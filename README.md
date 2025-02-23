@@ -1,6 +1,6 @@
 # 🚀 VELOS AI v1.5
 
-![VELOS AI v1.5 Logo](https://raw.githubusercontent.com/epfklipteam/VELOS-AI-v1.5/refs/heads/main/img/logo.png)
+![VELOS AI v1.5 Logo](https://raw.githubusercontent.com/DOSaAI/VELOS-AI-v1.5/refs/heads/main/img/logo.png)
 
 **VELOS AI v1.5** is a lightweight, dynamic response prediction backend for intelligent assistants. It leverages fuzzy matching, Markov chains, and candidate response scoring—all powered by a customizable JSON conversation dataset—to generate context-aware, engaging responses. The system uniquely handles greetings by always returning the dedicated "Greetings" context for exact matches.
 
