@@ -36,8 +36,8 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/velos-ai.git
-   cd velos-ai
+   git clone https://github.com/DOSaAI/VELOS-AI-v1.5.git
+   cd VELOS-AI-v1.5
    ```
 
 2. **Install Dependencies:**  
